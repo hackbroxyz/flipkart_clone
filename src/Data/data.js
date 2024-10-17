@@ -1,177 +1,6 @@
 
 export const data = [
-     {
-        id: 32,
-        type: 'product',
-        title: "OnePlus Buds Pro 2 Bluetooth Headset (Arbor Green, True Wireless)",
-        image: "../products/32.png",
-        discount: "99% Off",
-        price: "₹1100",
-        additionalPrice: "₹149.00",
-        sliderImages: [
-            "../products/32.png",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/i/h/1/buds-pro-2-oneplus-original-imaghtn84yesxavy.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/x/g/m/-original-imagnth53aukzbth.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/q/5/h/-original-imagpehwc6n72seh.jpeg?q=70&crop=false"
-        ],
-        info: "../earphoneDetails.png"
-    },
-    {
-        id: 33,
-        type: 'product',
-        title: "JBL Wave Beam TWS, 32Hr Playtime, IP54, Smart Ambient & TalkThru Mode, JBL App Bluetooth Headset (Black, In the Ear)",
-        image: "../products/33.png",
-        discount: "99% Off",
-        price: "₹4999",
-        additionalPrice: "₹139.00",
-        sliderImages: [
-            "../products/33.png",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/a/y/c/-original-imagn45e6fvzeskg.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/w/2/u/-original-imagn456pkettdyc.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/x/v/g/-original-imagn456dnhbssn4.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/7/9/c/-original-imagn456gryf2mg9.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/4/s/o/-original-imagn456bhfqvdxz.jpeg?q=70&crop=false"
-        ],
-        info: "../earphoneDetails.png"
-    },
-    {
-        id: 34,
-        type: 'product',
-        title: "Noise Colorfit Icon 2 1.8'' Display with Bluetooth Calling, AI Voice Assistant Smartwatch (Black Strap, Regular)",
-        image: "../products/34.png",
-        discount: "99% Off",
-        price: "₹5999",
-        additionalPrice: "₹249.00",
-        sliderImages: [
-            "../products/34.png",
-            "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/r/q/t/-original-imagg8dksgct9hxg.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/z/h/m/-original-imagg8dkq3fshkwh.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/s/z/8/-original-imagkspj24beee9c.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/a/w/z/-original-imagg8dk5sayxbth.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/v/0/f/-original-imagg8d9cuv8d5en.jpeg?q=70&crop=false"
-        ],
-        info: "../earphoneDetails.png"
-    },
-    {
-        id: 35,
-        type: 'product',
-        title: "JBL Partybox 310 - 18Hrs Playtime, JBL Pro Sound, Dynamic Light Show, IPX4 Portable 240 W Bluetooth Soundbar (Black, Stereo Channel)",
-        image: "../products/35.png",
-        discount: "99% Off",
-        price: "₹46999",
-        additionalPrice: "₹419.00",
-        sliderImages: [
-            "../products/35.png",
-            "https://rukminim2.flixcart.com/image/832/832/kmz7qfk0/speaker/tower-speaker/h/7/v/jblpartybox310in-jbl-original-imagfr7ekxhh9juf.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/kmz7qfk0/speaker/tower-speaker/c/s/y/jblpartybox310in-jbl-original-imagfr7exfhjcx3j.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/kmz7qfk0/speaker/tower-speaker/3/8/c/jblpartybox310in-jbl-original-imagfr7evxrzgwa2.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/kmz7qfk0/speaker/tower-speaker/5/g/0/jblpartybox310in-jbl-original-imagfr7ek4phfgdw.jpeg?q=70&crop=false",
 
-        ],
-        info: "../earphoneDetails.png"
-    },
-    {
-        id: 36,
-        type: 'product',
-        title: "MAHARAJA WHITELINE Neo Pro MX-261 500 W Mixer Grinder (3 Jars, Multicolor)",
-        image: "../products/36.png",
-        discount: "99% Off",
-        price: "₹3399",
-        additionalPrice: "₹299.00",
-        sliderImages: [
-            "../products/36.png",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/h/k/y/-original-imagvknjgxqwyxuf.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/e/a/h/-original-imagq642gyqayqdt.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/a/b/u/-original-imagvknjjtgxjgac.jpeg?q=70&crop=false",
-
-        ],
-        info: "../earphoneDetail.png"
-    },
-    {
-        id: 39,
-        type: 'product',
-        title: "SONY HT-S20R 5.1ch Home Theatre with Dolby Digital, Subwoofer, Rear Speakers, 400 W Bluetooth Soundbar (Black, 5.1 Channel)",
-        image: "../products/39.png",
-        discount: "99% Off",
-        price: "₹19990",
-        additionalPrice: "₹299.00",
-        sliderImages: [
-            "../products/39.png",
-            "https://rukminim2.flixcart.com/image/832/832/k687wy80/speaker/soundbar/p/j/d/sony-ht-s20r-original-imafzqfr9zdyhzhz.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/k687wy80/speaker/soundbar/p/j/d/sony-ht-s20r-original-imafzqfrqp9qqysn.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/k687wy80/speaker/soundbar/p/j/d/sony-ht-s20r-original-imafzqfrxga7nbh7.jpeg?q=70&crop=false",
-
-        ],
-        info: "../earphoneDetail.png"
-    },
-    {
-        id: 44,
-        type: 'product',
-        title: "BAJAJ 15 L Storage Water Geyser Suitable for large wall spaces (Popular Plus 15 L, White)",
-        image: "../products/44.png",
-        discount: "99% Off",
-        price: "₹8945",
-        additionalPrice: "₹499.00",
-        sliderImages: [
-            "../products/44.png",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/water-geyser/3/f/6/-original-imagszaqqagpfafs.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/water-geyser/o/b/o/-original-imagszaquxs99dvm.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/water-geyser/g/1/s/-original-imagszaqbbqek3cg.jpeg?q=70&crop=false",
-
-        ],
-        info: "../earphoneDetails.png"
-    },
-    {
-        id: 47,
-        type: 'product',
-        title: "boAt Aavante Bar Orion with Multiple Connectivity Ports, EQ Modes 160 W Bluetooth Soundbar (Pitch Black, 2.1 Channel)",
-        image: "../products/47.png",
-        discount: "99% Off",
-        price: "₹8499",
-        additionalPrice: "₹499.00",
-        sliderImages: [
-            "../products/47.png",
-            "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/soundbar/s/9/c/orion-boat-original-imagtvgswstnkpwh.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/soundbar/h/l/h/orion-boat-original-imagtvgsyvh4gyet.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/soundbar/n/m/e/orion-boat-original-imagtvgsmkcyjkhj.jpeg?q=70&crop=false",
-
-        ],
-        info: "../earphoneDetail.png"
-    },
-    {
-        id: 49,
-        type: 'product',
-        title: "realme Buds Air 5 with 50dB ANC, 12.4mm Dynamic Bass Driver and upto 38 hours Playback Bluetooth Headset (Deep Sea Blue, True Wireless)",
-        image: "../products/49.png",
-        discount: "99% Off",
-        price: "₹29990",
-        additionalPrice: "₹299.00",
-        sliderImages: [
-            "../products/49.png",
-            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/b/e/n/-original-imagsgfbhsfrsn4f.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/7/m/c/-original-imagsgfbwuxrpgs9.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/w/i/f/-original-imagsgfbq8hgf4fp.jpeg?q=70&crop=false",
-
-        ],
-        info: "../earphoneDetails.png"
-    },
-    {
-        id: 50,
-        type: 'product',
-        title: "Boult Z40 with Zen ENC Mic, 60H Battery Life, Low Latency Gaming, Made In India, 5.3 Bluetooth Headset (White, In the Ear)",
-        image: "../products/50.png",
-        discount: "99% Off",
-        price: "₹4999",
-        additionalPrice: "₹159.00",
-        sliderImages: [
-            "../products/50.png",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/3/z/x/-original-imagtvpyrzszyd8y.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/x/m/r/-original-imagtvqccgzhjchz.jpeg?q=70&crop=false",
-            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/c/j/b/-original-imagtvpy9kyext2s.jpeg?q=70&crop=false",
-
-        ],
-        info: "../earphoneDetails.png"
-    },
     {
         id: 27,
         type: 'product',
@@ -650,6 +479,177 @@ export const data = [
             "https://rc.super-deel.site/uffr/media/polls/images/4_jSUZbmJ.jpg"
         ], info: "https://rc.super-deel.site/uffr/media/polls/images/sdfgsdfgsdfgsdfg.jpg"
     },
+     {
+        id: 32,
+        type: 'product',
+        title: "OnePlus Buds Pro 2 Bluetooth Headset (Arbor Green, True Wireless)",
+        image: "../products/32.png",
+        discount: "99% Off",
+        price: "₹1100",
+        additionalPrice: "₹149.00",
+        sliderImages: [
+            "../products/32.png",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/i/h/1/buds-pro-2-oneplus-original-imaghtn84yesxavy.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/x/g/m/-original-imagnth53aukzbth.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/q/5/h/-original-imagpehwc6n72seh.jpeg?q=70&crop=false"
+        ],
+        info: "../earphoneDetails.png"
+    },
+    {
+        id: 33,
+        type: 'product',
+        title: "JBL Wave Beam TWS, 32Hr Playtime, IP54, Smart Ambient & TalkThru Mode, JBL App Bluetooth Headset (Black, In the Ear)",
+        image: "../products/33.png",
+        discount: "99% Off",
+        price: "₹4999",
+        additionalPrice: "₹139.00",
+        sliderImages: [
+            "../products/33.png",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/a/y/c/-original-imagn45e6fvzeskg.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/w/2/u/-original-imagn456pkettdyc.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/x/v/g/-original-imagn456dnhbssn4.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/7/9/c/-original-imagn456gryf2mg9.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/4/s/o/-original-imagn456bhfqvdxz.jpeg?q=70&crop=false"
+        ],
+        info: "../earphoneDetails.png"
+    },
+    {
+        id: 34,
+        type: 'product',
+        title: "Noise Colorfit Icon 2 1.8'' Display with Bluetooth Calling, AI Voice Assistant Smartwatch (Black Strap, Regular)",
+        image: "../products/34.png",
+        discount: "99% Off",
+        price: "₹5999",
+        additionalPrice: "₹249.00",
+        sliderImages: [
+            "../products/34.png",
+            "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/r/q/t/-original-imagg8dksgct9hxg.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/z/h/m/-original-imagg8dkq3fshkwh.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/s/z/8/-original-imagkspj24beee9c.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/a/w/z/-original-imagg8dk5sayxbth.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/v/0/f/-original-imagg8d9cuv8d5en.jpeg?q=70&crop=false"
+        ],
+        info: "../earphoneDetails.png"
+    },
+    {
+        id: 35,
+        type: 'product',
+        title: "JBL Partybox 310 - 18Hrs Playtime, JBL Pro Sound, Dynamic Light Show, IPX4 Portable 240 W Bluetooth Soundbar (Black, Stereo Channel)",
+        image: "../products/35.png",
+        discount: "99% Off",
+        price: "₹46999",
+        additionalPrice: "₹419.00",
+        sliderImages: [
+            "../products/35.png",
+            "https://rukminim2.flixcart.com/image/832/832/kmz7qfk0/speaker/tower-speaker/h/7/v/jblpartybox310in-jbl-original-imagfr7ekxhh9juf.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/kmz7qfk0/speaker/tower-speaker/c/s/y/jblpartybox310in-jbl-original-imagfr7exfhjcx3j.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/kmz7qfk0/speaker/tower-speaker/3/8/c/jblpartybox310in-jbl-original-imagfr7evxrzgwa2.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/kmz7qfk0/speaker/tower-speaker/5/g/0/jblpartybox310in-jbl-original-imagfr7ek4phfgdw.jpeg?q=70&crop=false",
 
+        ],
+        info: "../earphoneDetails.png"
+    },
+    {
+        id: 36,
+        type: 'product',
+        title: "MAHARAJA WHITELINE Neo Pro MX-261 500 W Mixer Grinder (3 Jars, Multicolor)",
+        image: "../products/36.png",
+        discount: "99% Off",
+        price: "₹3399",
+        additionalPrice: "₹299.00",
+        sliderImages: [
+            "../products/36.png",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/h/k/y/-original-imagvknjgxqwyxuf.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/e/a/h/-original-imagq642gyqayqdt.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/mixer-grinder-juicer/a/b/u/-original-imagvknjjtgxjgac.jpeg?q=70&crop=false",
+
+        ],
+        info: "../earphoneDetail.png"
+    },
+    {
+        id: 39,
+        type: 'product',
+        title: "SONY HT-S20R 5.1ch Home Theatre with Dolby Digital, Subwoofer, Rear Speakers, 400 W Bluetooth Soundbar (Black, 5.1 Channel)",
+        image: "../products/39.png",
+        discount: "99% Off",
+        price: "₹19990",
+        additionalPrice: "₹299.00",
+        sliderImages: [
+            "../products/39.png",
+            "https://rukminim2.flixcart.com/image/832/832/k687wy80/speaker/soundbar/p/j/d/sony-ht-s20r-original-imafzqfr9zdyhzhz.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/k687wy80/speaker/soundbar/p/j/d/sony-ht-s20r-original-imafzqfrqp9qqysn.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/k687wy80/speaker/soundbar/p/j/d/sony-ht-s20r-original-imafzqfrxga7nbh7.jpeg?q=70&crop=false",
+
+        ],
+        info: "../earphoneDetail.png"
+    },
+    {
+        id: 44,
+        type: 'product',
+        title: "BAJAJ 15 L Storage Water Geyser Suitable for large wall spaces (Popular Plus 15 L, White)",
+        image: "../products/44.png",
+        discount: "99% Off",
+        price: "₹8945",
+        additionalPrice: "₹499.00",
+        sliderImages: [
+            "../products/44.png",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/water-geyser/3/f/6/-original-imagszaqqagpfafs.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/water-geyser/o/b/o/-original-imagszaquxs99dvm.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/water-geyser/g/1/s/-original-imagszaqbbqek3cg.jpeg?q=70&crop=false",
+
+        ],
+        info: "../earphoneDetails.png"
+    },
+    {
+        id: 47,
+        type: 'product',
+        title: "boAt Aavante Bar Orion with Multiple Connectivity Ports, EQ Modes 160 W Bluetooth Soundbar (Pitch Black, 2.1 Channel)",
+        image: "../products/47.png",
+        discount: "99% Off",
+        price: "₹8499",
+        additionalPrice: "₹499.00",
+        sliderImages: [
+            "../products/47.png",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/soundbar/s/9/c/orion-boat-original-imagtvgswstnkpwh.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/soundbar/h/l/h/orion-boat-original-imagtvgsyvh4gyet.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/soundbar/n/m/e/orion-boat-original-imagtvgsmkcyjkhj.jpeg?q=70&crop=false",
+
+        ],
+        info: "../earphoneDetail.png"
+    },
+    {
+        id: 49,
+        type: 'product',
+        title: "realme Buds Air 5 with 50dB ANC, 12.4mm Dynamic Bass Driver and upto 38 hours Playback Bluetooth Headset (Deep Sea Blue, True Wireless)",
+        image: "../products/49.png",
+        discount: "99% Off",
+        price: "₹29990",
+        additionalPrice: "₹299.00",
+        sliderImages: [
+            "../products/49.png",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/b/e/n/-original-imagsgfbhsfrsn4f.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/7/m/c/-original-imagsgfbwuxrpgs9.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/w/i/f/-original-imagsgfbq8hgf4fp.jpeg?q=70&crop=false",
+
+        ],
+        info: "../earphoneDetails.png"
+    },
+    {
+        id: 50,
+        type: 'product',
+        title: "Boult Z40 with Zen ENC Mic, 60H Battery Life, Low Latency Gaming, Made In India, 5.3 Bluetooth Headset (White, In the Ear)",
+        image: "../products/50.png",
+        discount: "99% Off",
+        price: "₹4999",
+        additionalPrice: "₹159.00",
+        sliderImages: [
+            "../products/50.png",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/3/z/x/-original-imagtvpyrzszyd8y.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/x/m/r/-original-imagtvqccgzhjchz.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/c/j/b/-original-imagtvpy9kyext2s.jpeg?q=70&crop=false",
+
+        ],
+        info: "../earphoneDetails.png"
+    },
 ];
 
